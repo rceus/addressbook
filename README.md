@@ -9,4 +9,7 @@ Instructions (with MAMP):
   2. Start the Servers (Apache and MySQL)
   3. Change all the links in the files (localhost) to your IP if you are online.
 
+Minor problem:
+onHover to be changed to onClick in main.php with proper js wrapper function.
+
 Developed by Rishabh Jain
